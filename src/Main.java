@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.printf("ИСБ-323!");
+        System.out.printf("ИСБ-323!");//Ласт комит
     }
 }
-//Убрал мусор
